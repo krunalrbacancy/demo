@@ -17,6 +17,17 @@ First, clone the project repository from your preferred Git hosting service:
 
 ```bash
 git clone <repository-url>
-cd <project-directory> && npm install
+
+### 2. Navigate to project folder
+
+```bash
+cd <project-directory>
+
+```bash
+npm install
+
+```bash
 npm i sass
+
+```bash
 npm run sass
