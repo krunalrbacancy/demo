@@ -20,14 +20,13 @@ git clone <repository-url>
 
 ### 2. Navigate to project folder
 
-```bash
 cd <project-directory>
 
-```bash
+### 3. Install node module
 npm install
 
-```bash
+### 4. Install SASS
 npm i sass
 
-```bash
+### 5. Run SASS
 npm run sass
